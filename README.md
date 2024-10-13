@@ -5,7 +5,7 @@
 [![open-issues](https://flat.badgen.net/github/open-issues/RikyPy/py-wapp)](https://github.com/RikyPy/py-wapp/issues)
 [![open-PRs](https://flat.badgen.net/github/open-prs/RikyPy/py-wapp)](https://github.com/RikyPy/py-wapp/pulls)
 [![commits](https://flat.badgen.net/github/commits/RikyPy/py-wapp)](https://github.com/RikyPy/py-wapp/commits/master)
-[![license](https://flat.badgen.net/github/license/RikyPy/py-wapp)](https://github.com/RikyPy/py-wapp/LICENSE)
+[![license](https://flat.badgen.net/github/license/RikyPy/py-wapp)](https://github.com/RikyPy/py-wapp/blob/master/LICENSE)
 [![contributors](https://flat.badgen.net/github/contributors/RikyPy/py-wapp)](https://github.com/RikyPy/py-wapp/graphs/contributors)
 [![release](https://flat.badgen.net/github/release/RikyPy/py-wapp)](https://github.com/RikyPy/py-wapp/releases)
 

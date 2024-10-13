@@ -9,4 +9,7 @@
 [![contributors](https://flat.badgen.net/github/contributors/RikyPy/py-wapp)](https://github.com/RikyPy/py-wapp/graphs/contributors)
 [![release](https://flat.badgen.net/github/release/RikyPy/py-wapp)](https://github.com/RikyPy/py-wapp/releases)
 
+This project is under construction 🏗️
+If you would like to contribute it will be really appreciated!
+
 py-wapp is a [Python](https://www.python.org/) library that you can use for automating WhatsApp.
